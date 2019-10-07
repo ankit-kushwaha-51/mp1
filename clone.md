@@ -6,4 +6,4 @@
 
 ![clone](/images/clone.png)
 
-*The difference between cloning and forking is that cloning is taking a copy of the repo and downloading it on your local. Forking on the other hand, creates a branch from the original repository, and you can contribute to the original repository via pull requests.
+* The difference between cloning and forking is that cloning is taking a copy of the repo and downloading it on your local. Forking on the other hand, creates a branch from the original repository, and you can contribute to the original repository via pull requests.
