@@ -6,4 +6,3 @@
 
 ![repo](/images/repository.png)
 
-The above is an example of a repository in GitHub.
