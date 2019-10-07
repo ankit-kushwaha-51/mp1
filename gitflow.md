@@ -11,4 +11,4 @@
 1. **Develop**: The Develop branch is where Feature branches are branched off and merged back into when the Features are ready for release. 
 1. **Feature**: There can be multiple Feature branches, as needed for each Feature. The Feature branches are merged back into Develop when the team is done with their initial development (before testing takes place in the Release branch).
 
-*The Gitflow workflow allows the team to collaborate in an orderly fashion.
+* The Gitflow workflow allows the team to collaborate in an orderly fashion.
