@@ -1,6 +1,6 @@
 ## Remote
 
-* **Remote** commands in git have to do with the remote repository. 
+* **Remote** commands in git have to do with the remote [repository](repository.md). 
 * A remote repository is a version of your project that is hosted on the internet or network somewhere.
 * There are 3 main commands to use with remote:
 1. *git remote add* - This is used to add a remote repository. After typing git remote add, you can type the name of the repository to refer it to in git, and the URL of the repository.
@@ -9,4 +9,4 @@
 
 ![remote](images/remote.png)
 
-
+Go back to [README](README.md)
