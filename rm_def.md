@@ -9,5 +9,5 @@
 
 ![Image of rm2](/images/rm2.png)
 
-* For more info, click [here](https://www.computerhope.com/unix/urm.htm
+* For more info, click [here](https://www.computerhope.com/unix/urm.htm)
 
