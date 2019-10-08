@@ -12,3 +12,5 @@
 1. **Feature**: There can be multiple Feature branches, as needed for each Feature. The Feature branches are merged back into Develop when the team is done with their initial development (before testing takes place in the Release branch).
 
 * The Gitflow workflow allows the team to collaborate in an orderly fashion.
+
+Go back to [README](README.md)
