@@ -7,9 +7,6 @@
 
 ![Image of cp](/images/cp.png)
 
-* For more info, click the link below
-* https://www.computerhope.com/unix/ucp.htm
-
- [CP unix]( https://www.computerhope.com/unix/ucp.htm)
+* For more info, click [here](https://www.computerhope.com/unix/ucp.htm)
 
 
