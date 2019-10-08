@@ -6,6 +6,8 @@
 
 Linux:
 
+[intro](intro.md)
+
 [cd](cd_def.md)
 
 [mkdir](mkdri_def.md)
@@ -21,6 +23,10 @@ Linux:
 [history](history_def.md)
 
 [Home directory and ~](home~.md)
+
+[file paths](paths.md)
+
+[tabs](tab.md)
 
 Git:
 
@@ -79,6 +85,27 @@ Ameen: Added status page
 
 Ameen: Added masterbranch page
 
+Ankit: Added intro page
+
+Ankit: Added cd  page
+
+Ankit: Added mkdir page
+
+Ankit: Added cp page
+
+Ankit: Added pwd page
+
+Ankit: Added mv page
+
+Ankit: Added rm page
+
+Ankit: Added home and ~ page
+
+Ankit: Added history page
+
+Ankit: Added file paths page
+
+Ankit: Added tabs page
 
 **Sources:**
 
