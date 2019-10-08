@@ -5,3 +5,5 @@
 * Note: For checking committed project history, git status is not the correct command. For this, you would need to use git log.
 
 ![status](images/status.png)
+
+Go back to [README](README.md)
