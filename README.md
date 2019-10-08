@@ -116,3 +116,7 @@ https://www.atlassian.com/git/tutorials
 https://git-scm.com/docs/gittutorial
 
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
+https://www.computerhope.com/unix.htm
+
+https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101
