@@ -64,7 +64,7 @@ Git:
 
 [Design Patterns from Gang of Four](DesignPatterns.md)
 
-[class](class.md)
+[class](Class.md)
 
 [object](objects.md)
 
