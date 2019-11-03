@@ -10,7 +10,7 @@
 
 * If a block has to be more deeply nested, it is simply indented further to the right. 
 
-![Indentation](mp1/images/indentation.png)
+![Indentation](images/indentation.png)
 
 
 Go back to [README](README.md)
