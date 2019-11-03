@@ -12,4 +12,7 @@ class Sample:
 
 name, height etc.. are the attributes of class.
 
+
+![Properties](images/attributes.png)
+
 Go back to [README](README.md)
