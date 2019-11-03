@@ -1,4 +1,4 @@
-## Python Indentation
+## How Python uses Indentation to control Flow
 
 * Python programs are structured through indentation, i.e. code blocks are defined by their indentation. 
 

@@ -56,6 +56,40 @@ Git:
 
 [masterbranch](masterbranch.md)
 
+[class](class.md)
+
+[How Python uses Indentation to control Flow](Python_Indentation.md)
+
+[Don't Repeat Yourself](Don'tRepeatYourself.md)
+
+[Design Patterns from Gang of Four](DesignPatterns.md)
+
+[class](class.md)
+
+[object](objects.md)
+
+[static](Static.md)
+
+[Property/Attribute](Property.md)
+
+[method](Method.md)
+
+[exception](Exception.md)
+
+[unit test](UnitTest.md)
+
+[constructor](Constructor.md)
+
+[factory](factory.md)
+
+[decorators](decorators.md)
+
+[extend class](ExtendClass.md)
+
+[CSV Files](CSV.md)
+
+[reading files](ReadingFiles.md)
+
 
 **Changelog:**
 
