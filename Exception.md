@@ -10,4 +10,6 @@
 
 This is a exception that occurs when operation involving floating point fails
 
+![exceptions](images/exceptions.png)
+
 Go back to [README](README.md)
